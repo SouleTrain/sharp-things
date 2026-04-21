@@ -1,0 +1,14 @@
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 7\Folders\Lab 7.2 ConvertMilesToKilometers\Lab 7.2 ConvertMilesToKilometers\bin\Debug\net10.0\Lab 7.2 ConvertMilesToKilometers.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 7\Folders\Lab 7.2 ConvertMilesToKilometers\Lab 7.2 ConvertMilesToKilometers\bin\Debug\net10.0\Lab 7.2 ConvertMilesToKilometers.deps.json
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 7\Folders\Lab 7.2 ConvertMilesToKilometers\Lab 7.2 ConvertMilesToKilometers\bin\Debug\net10.0\Lab 7.2 ConvertMilesToKilometers.runtimeconfig.json
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 7\Folders\Lab 7.2 ConvertMilesToKilometers\Lab 7.2 ConvertMilesToKilometers\bin\Debug\net10.0\Lab 7.2 ConvertMilesToKilometers.dll
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 7\Folders\Lab 7.2 ConvertMilesToKilometers\Lab 7.2 ConvertMilesToKilometers\bin\Debug\net10.0\Lab 7.2 ConvertMilesToKilometers.pdb
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 7\Folders\Lab 7.2 ConvertMilesToKilometers\Lab 7.2 ConvertMilesToKilometers\obj\Debug\net10.0\Lab 7.2 ConvertMilesToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 7\Folders\Lab 7.2 ConvertMilesToKilometers\Lab 7.2 ConvertMilesToKilometers\obj\Debug\net10.0\Lab 7.2 ConvertMilesToKilometers.AssemblyInfoInputs.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 7\Folders\Lab 7.2 ConvertMilesToKilometers\Lab 7.2 ConvertMilesToKilometers\obj\Debug\net10.0\Lab 7.2 ConvertMilesToKilometers.AssemblyInfo.cs
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 7\Folders\Lab 7.2 ConvertMilesToKilometers\Lab 7.2 ConvertMilesToKilometers\obj\Debug\net10.0\Lab 7.2 ConvertMilesToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 7\Folders\Lab 7.2 ConvertMilesToKilometers\Lab 7.2 ConvertMilesToKilometers\obj\Debug\net10.0\Lab 7.2 ConvertMilesToKilometers.dll
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 7\Folders\Lab 7.2 ConvertMilesToKilometers\Lab 7.2 ConvertMilesToKilometers\obj\Debug\net10.0\refint\Lab 7.2 ConvertMilesToKilometers.dll
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 7\Folders\Lab 7.2 ConvertMilesToKilometers\Lab 7.2 ConvertMilesToKilometers\obj\Debug\net10.0\Lab 7.2 ConvertMilesToKilometers.pdb
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 7\Folders\Lab 7.2 ConvertMilesToKilometers\Lab 7.2 ConvertMilesToKilometers\obj\Debug\net10.0\Lab 7.2 ConvertMilesToKilometers.genruntimeconfig.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 7\Folders\Lab 7.2 ConvertMilesToKilometers\Lab 7.2 ConvertMilesToKilometers\obj\Debug\net10.0\ref\Lab 7.2 ConvertMilesToKilometers.dll

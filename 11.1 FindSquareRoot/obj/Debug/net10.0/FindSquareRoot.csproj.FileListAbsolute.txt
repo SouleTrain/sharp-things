@@ -1,0 +1,14 @@
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 11\Folders\FindSquareRoot\bin\Debug\net10.0\FindSquareRoot.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 11\Folders\FindSquareRoot\bin\Debug\net10.0\FindSquareRoot.deps.json
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 11\Folders\FindSquareRoot\bin\Debug\net10.0\FindSquareRoot.runtimeconfig.json
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 11\Folders\FindSquareRoot\bin\Debug\net10.0\FindSquareRoot.dll
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 11\Folders\FindSquareRoot\bin\Debug\net10.0\FindSquareRoot.pdb
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 11\Folders\FindSquareRoot\obj\Debug\net10.0\FindSquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 11\Folders\FindSquareRoot\obj\Debug\net10.0\FindSquareRoot.AssemblyInfoInputs.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 11\Folders\FindSquareRoot\obj\Debug\net10.0\FindSquareRoot.AssemblyInfo.cs
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 11\Folders\FindSquareRoot\obj\Debug\net10.0\FindSquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 11\Folders\FindSquareRoot\obj\Debug\net10.0\FindSquareRoot.dll
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 11\Folders\FindSquareRoot\obj\Debug\net10.0\refint\FindSquareRoot.dll
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 11\Folders\FindSquareRoot\obj\Debug\net10.0\FindSquareRoot.pdb
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 11\Folders\FindSquareRoot\obj\Debug\net10.0\FindSquareRoot.genruntimeconfig.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 11\Folders\FindSquareRoot\obj\Debug\net10.0\ref\FindSquareRoot.dll

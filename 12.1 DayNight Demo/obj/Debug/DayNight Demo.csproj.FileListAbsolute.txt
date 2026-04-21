@@ -1,0 +1,10 @@
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\DayNight Demo\bin\Debug\DayNight Demo.exe.config
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\DayNight Demo\bin\Debug\DayNight Demo.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\DayNight Demo\bin\Debug\DayNight Demo.pdb
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\DayNight Demo\obj\Debug\DayNight Demo.csproj.AssemblyReference.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\DayNight Demo\obj\Debug\DayNight_Demo.Form1.resources
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\DayNight Demo\obj\Debug\DayNight_Demo.Properties.Resources.resources
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\DayNight Demo\obj\Debug\DayNight Demo.csproj.GenerateResource.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\DayNight Demo\obj\Debug\DayNight Demo.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\DayNight Demo\obj\Debug\DayNight Demo.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\DayNight Demo\obj\Debug\DayNight Demo.pdb

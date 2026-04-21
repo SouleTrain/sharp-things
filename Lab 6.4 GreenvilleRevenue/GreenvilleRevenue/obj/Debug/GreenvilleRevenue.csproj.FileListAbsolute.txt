@@ -1,0 +1,10 @@
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.exe.config
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\GreenvilleRevenue.pdb
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.csproj.AssemblyReference.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.Form1.resources
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.Properties.Resources.resources
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.csproj.GenerateResource.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\GreenvilleRevenue.pdb

@@ -1,0 +1,10 @@
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\ArrayDemo\ArrayDemo\bin\Debug\ArrayDemo.exe.config
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\ArrayDemo\ArrayDemo\bin\Debug\ArrayDemo.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\ArrayDemo\ArrayDemo\bin\Debug\ArrayDemo.pdb
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.csproj.AssemblyReference.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.Form1.resources
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.Properties.Resources.resources
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.csproj.GenerateResource.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.pdb

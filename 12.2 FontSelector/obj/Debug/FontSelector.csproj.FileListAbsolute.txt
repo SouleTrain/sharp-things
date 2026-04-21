@@ -1,0 +1,10 @@
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\FontSelector\bin\Debug\FontSelector.exe.config
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\FontSelector\bin\Debug\FontSelector.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\FontSelector\bin\Debug\FontSelector.pdb
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\FontSelector\obj\Debug\FontSelector.csproj.AssemblyReference.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\FontSelector\obj\Debug\FontSelector.Form1.resources
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\FontSelector\obj\Debug\FontSelector.Properties.Resources.resources
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\FontSelector\obj\Debug\FontSelector.csproj.GenerateResource.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\FontSelector\obj\Debug\FontSelector.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\FontSelector\obj\Debug\FontSelector.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 12\Folders\FontSelector\obj\Debug\FontSelector.pdb

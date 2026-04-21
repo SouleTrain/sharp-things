@@ -1,0 +1,10 @@
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\Lab 6.2 TestScoreList\Lab 6.2 TestScoreList\bin\Debug\Lab 6.2 TestScoreList.exe.config
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\Lab 6.2 TestScoreList\Lab 6.2 TestScoreList\bin\Debug\Lab 6.2 TestScoreList.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\Lab 6.2 TestScoreList\Lab 6.2 TestScoreList\bin\Debug\Lab 6.2 TestScoreList.pdb
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\Lab 6.2 TestScoreList\Lab 6.2 TestScoreList\obj\Debug\Lab 6.2 TestScoreList.csproj.AssemblyReference.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\Lab 6.2 TestScoreList\Lab 6.2 TestScoreList\obj\Debug\Lab_6._2_TestScoreList.Properties.Resources.resources
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\Lab 6.2 TestScoreList\Lab 6.2 TestScoreList\obj\Debug\Lab 6.2 TestScoreList.csproj.GenerateResource.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\Lab 6.2 TestScoreList\Lab 6.2 TestScoreList\obj\Debug\Lab 6.2 TestScoreList.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\Lab 6.2 TestScoreList\Lab 6.2 TestScoreList\obj\Debug\Lab 6.2 TestScoreList.exe
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\Lab 6.2 TestScoreList\Lab 6.2 TestScoreList\obj\Debug\Lab 6.2 TestScoreList.pdb
+C:\Users\xavie\OneDrive\Desktop\C# Files For Class 2026\Chapter 6\Folders\Lab 6.2 TestScoreList\Lab 6.2 TestScoreList\obj\Debug\Lab_6._2_TestScoreList.TestScoreList.resources
