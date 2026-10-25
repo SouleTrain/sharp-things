@@ -1,0 +1,14 @@
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeShuffleArray\bin\Debug\net10.0\leetCodeShuffleArray.exe
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeShuffleArray\bin\Debug\net10.0\leetCodeShuffleArray.deps.json
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeShuffleArray\bin\Debug\net10.0\leetCodeShuffleArray.runtimeconfig.json
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeShuffleArray\bin\Debug\net10.0\leetCodeShuffleArray.dll
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeShuffleArray\bin\Debug\net10.0\leetCodeShuffleArray.pdb
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeShuffleArray\obj\Debug\net10.0\leetCodeShuffleArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeShuffleArray\obj\Debug\net10.0\leetCodeShuffleArray.AssemblyInfoInputs.cache
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeShuffleArray\obj\Debug\net10.0\leetCodeShuffleArray.AssemblyInfo.cs
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeShuffleArray\obj\Debug\net10.0\leetCodeShuffleArray.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeShuffleArray\obj\Debug\net10.0\leetCodeShuffleArray.dll
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeShuffleArray\obj\Debug\net10.0\refint\leetCodeShuffleArray.dll
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeShuffleArray\obj\Debug\net10.0\leetCodeShuffleArray.pdb
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeShuffleArray\obj\Debug\net10.0\leetCodeShuffleArray.genruntimeconfig.cache
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeShuffleArray\obj\Debug\net10.0\ref\leetCodeShuffleArray.dll

@@ -1,0 +1,14 @@
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeConcatenationOfArray\bin\Debug\net10.0\leetCodeConcatenationOfArray.exe
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeConcatenationOfArray\bin\Debug\net10.0\leetCodeConcatenationOfArray.deps.json
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeConcatenationOfArray\bin\Debug\net10.0\leetCodeConcatenationOfArray.runtimeconfig.json
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeConcatenationOfArray\bin\Debug\net10.0\leetCodeConcatenationOfArray.dll
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeConcatenationOfArray\bin\Debug\net10.0\leetCodeConcatenationOfArray.pdb
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeConcatenationOfArray\obj\Debug\net10.0\leetCodeConcatenationOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeConcatenationOfArray\obj\Debug\net10.0\leetCodeConcatenationOfArray.AssemblyInfoInputs.cache
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeConcatenationOfArray\obj\Debug\net10.0\leetCodeConcatenationOfArray.AssemblyInfo.cs
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeConcatenationOfArray\obj\Debug\net10.0\leetCodeConcatenationOfArray.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeConcatenationOfArray\obj\Debug\net10.0\leetCodeConcatenationOfArray.dll
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeConcatenationOfArray\obj\Debug\net10.0\refint\leetCodeConcatenationOfArray.dll
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeConcatenationOfArray\obj\Debug\net10.0\leetCodeConcatenationOfArray.pdb
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeConcatenationOfArray\obj\Debug\net10.0\leetCodeConcatenationOfArray.genruntimeconfig.cache
+C:\Users\xavie\OneDrive\Desktop\Personal C#\leetCodeConcatenationOfArray\obj\Debug\net10.0\ref\leetCodeConcatenationOfArray.dll
