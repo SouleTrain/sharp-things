@@ -1,0 +1,4 @@
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\leetCodeConsecOnes\obj\Debug\net10.0\leetCodeConsecOnes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\leetCodeConsecOnes\obj\Debug\net10.0\leetCodeConsecOnes.AssemblyInfoInputs.cache
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\leetCodeConsecOnes\obj\Debug\net10.0\leetCodeConsecOnes.AssemblyInfo.cs
+C:\Users\xavie\OneDrive\Desktop\Personal C# Projects\leetCodeConsecOnes\obj\Debug\net10.0\leetCodeConsecOnes.csproj.CoreCompileInputs.cache
